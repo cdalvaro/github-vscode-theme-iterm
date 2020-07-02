@@ -8,5 +8,7 @@ Download the [GitHub Theme Dark.itermcolors](https://raw.githubusercontent.com/c
 
 ![iTerm Profiles Colors Pane](iTermProfilesColorsPane.png)
 
+You can also download the macOS Terminal app profile: [GitHub Theme Dark.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-dark-iterm/master/GitHub%20Theme%20Dark.terminal)
+
 [vscode-github-theme-image]: https://user-images.githubusercontent.com/378023/80668639-595e9e00-8add-11ea-8673-4a481cc7e2dd.png
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
