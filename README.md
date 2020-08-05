@@ -1,8 +1,10 @@
 # GitHub Theme for iTerm
 
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/1.1.3/1593159922259/Microsoft.VisualStudio.Services.Icons.Default" width="128px" style="top: 1px; visibility: visible;" />
+
 [iTerm](https://iterm2.com) theme based on Visual Studio Code [GitHub Theme][vscode-github-theme-marketplace] (Dark & Light)
 
-[![Visual Studio Code - GitHub Theme][vscode-github-theme-image]][vscode-github-theme-marketplace]
+![GitHub Theme for iTerm](images/GitHubThemeiTerm.png)
 
 Download iTerm profiles and open them.
 
@@ -11,12 +13,11 @@ Download iTerm profiles and open them.
 
 They will be automatically added to your _Color Presets..._ inside _Profiles > Colors_ in iTerm Preferences pane.
 
-![iTerm Profiles Colors Pane](iTermProfilesColorsPane.png)
+![iTerm Profiles Colors Pane](images/iTermProfilesColorsPane.png)
 
 You can also download the macOS Terminal app profiles:
 
 - [GitHub Dark.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/master/GitHub%20Dark.terminal)
 - [GitHub Light.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/master/GitHub%20Light.terminal)
 
-[vscode-github-theme-image]: https://user-images.githubusercontent.com/378023/80668639-595e9e00-8add-11ea-8673-4a481cc7e2dd.png
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
