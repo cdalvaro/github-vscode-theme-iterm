@@ -1,3 +1,5 @@
+[![GitHub Theme][vscode-github-theme-version]][github-vscode-theme-release]
+
 # GitHub Theme for iTerm
 
 <img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/1.1.3/1593159922259/Microsoft.VisualStudio.Services.Icons.Default" width="128px" style="top: 1px; visibility: visible;" />
@@ -21,3 +23,5 @@ You can also download the macOS Terminal app profiles:
 - [GitHub Light.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/master/GitHub%20Light.terminal)
 
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
+[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v1.1.4-007ACC?logo=visual-studio-code&logoColor=007ACC
+[github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v1.1.4
