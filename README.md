@@ -23,5 +23,5 @@ You can also download the macOS Terminal app profiles:
 - [GitHub Light.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/master/GitHub%20Light.terminal)
 
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
-[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v1.1.5-007ACC?logo=visual-studio-code&logoColor=007ACC
+[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v1.1.5-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
 [github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v1.1.5
