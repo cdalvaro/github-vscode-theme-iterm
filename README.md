@@ -2,7 +2,7 @@
 
 # GitHub VS Code Theme for iTerm
 
-<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/4.0.1/1618464841738/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/4.0.2/1618580791596/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
 
 [iTerm](https://iterm2.com) theme based on Visual Studio Code [GitHub Theme][vscode-github-theme-marketplace] (Dark, Dimmed & Light)
 
@@ -37,5 +37,5 @@ You can also download these profiles for Apple Terminal app:
 - [GitHub Light.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/classic/GitHub%20Light.terminal)
 
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
-[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v4.0.1-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
-[github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v4.0.1
+[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v4.0.2-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
+[github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v4.0.2
