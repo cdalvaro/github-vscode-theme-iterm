@@ -4,7 +4,7 @@
 
 <img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/4.0.2/1618580791596/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
 
-[iTerm](https://iterm2.com) theme based on Visual Studio Code [GitHub Theme][vscode-github-theme-marketplace] (Dark, Dimmed & Light)
+[GitHub Visual Studio Code Theme][vscode-github-theme-marketplace] for [iTerm](https://iterm2.com) (Dark, Dimmed & Light)
 
 ![GitHub Theme for iTerm](images/GitHubThemeiTerm.png)
 
