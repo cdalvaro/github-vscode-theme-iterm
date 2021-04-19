@@ -205,6 +205,8 @@
 	ohYYWE5TT2JqZWN0CBEaJCkyN0lMUVNXXWRqd36nqauwu8TMzwAAAAAAAAEBAAAAAAAA
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
+	<key>UseBrightBold</key>
+	<true/>
 	<key>name</key>
 	<string>GitHub Dark Dimmed</string>
 	<key>type</key>

@@ -205,6 +205,8 @@
 	cqIWGFhOU09iamVjdAgRGiQpMjdJTFFTV11kand+qKqssbzFzdAAAAAAAAABAQAAAAAA
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
+	<key>UseBrightBold</key>
+	<true/>
 	<key>name</key>
 	<string>GitHub Dark Default</string>
 	<key>type</key>
