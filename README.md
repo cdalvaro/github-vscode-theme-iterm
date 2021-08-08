@@ -6,7 +6,10 @@
 
 [GitHub Visual Studio Code Theme][vscode-github-theme-marketplace] for [iTerm](https://iterm2.com) (Dark, Dimmed & Light)
 
-![GitHub Theme for iTerm](images/GitHubThemeiTerm.png)
+<p style="font-size:8pt">
+  <img src="images/GitHubThemeiTerm.png">
+  <code>ll</code> is an alias<span id="a1"><a href="#f1"><sup>1</sup></a></span> for <a href="https://github.com/ogham/exa"><code>ogham/exa</code></a> cli tool.
+</p>
 
 Download iTerm profiles and open them.
 
@@ -39,3 +42,9 @@ You can also download these profiles for Apple Terminal app:
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
 [vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v4.0.4-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
 [github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v4.0.4
+
+---
+
+1. <span id="f1"></span> `alias ll='exa --long --header --group --git --modified --color-scale'` [↩️](#a1)
+
+See <a href="https://github.com/cdalvaro/dotfiles/blob/main/.oh-my-zsh/custom/aliases.zsh"><b>cdalvaro/dotfiles</b>/.oh-my-zsh/custom/aliases.zsh</a> for more details.
