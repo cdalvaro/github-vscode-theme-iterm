@@ -19,7 +19,7 @@
     "terminal.ansiWhite": "#b1bac4",
     "terminal.ansiYellow": "#d29922",
     "terminal.foreground": "#8b949e",
-    "textBlockQuote.background": "#090c10",
+    "textBlockQuote.background": "#010409",
     "textLink.activeForeground": "#58a6ff",
     "terminal.selectionBackground": "#ffffff40"
   }

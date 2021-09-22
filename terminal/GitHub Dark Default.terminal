@@ -150,10 +150,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGBwpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMS
 	AAGGoF8QD05TS2V5ZWRBcmNoaXZlctEICVRyb290gAGjCwwTVSRudWxs0w0ODxARElVO
-	U1JHQlxOU0NvbG9yU3BhY2VWJGNsYXNzTxAqMC4wMzUyOTQxMTc2NSAwLjA0NzA1ODgy
-	MzUzIDAuMDYyNzQ1MDk4MDQAEAGAAtIUFRYXWiRjbGFzc25hbWVYJGNsYXNzZXNXTlND
-	b2xvcqIWGFhOU09iamVjdAgRGiQpMjdJTFFTV11kand+q62vtL/I0NMAAAAAAAABAQAA
-	AAAAAAAZAAAAAAAAAAAAAAAAAAAA3A==
+	U1JHQlxOU0NvbG9yU3BhY2VWJGNsYXNzTxArMC4wMDM5MjE1Njg2MjcgMC4wMTU2ODYy
+	NzQ1MSAwLjAzNTI5NDExNzY1ABABgALSFBUWF1okY2xhc3NuYW1lWCRjbGFzc2VzV05T
+	Q29sb3KiFhhYTlNPYmplY3QIERokKTI3SUxRU1ddZGp3fqyusLXAydHUAAAAAAAAAQEA
+	AAAAAAAAGQAAAAAAAAAAAAAAAAAAAN0=
 	</data>
 	<key>CursorColor</key>
 	<data>
@@ -207,8 +207,12 @@
 	</data>
 	<key>UseBrightBold</key>
 	<true/>
+	<key>columnCount</key>
+	<integer>180</integer>
 	<key>name</key>
 	<string>GitHub Dark Default</string>
+	<key>rowCount</key>
+	<integer>60</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
