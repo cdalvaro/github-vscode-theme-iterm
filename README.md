@@ -45,8 +45,32 @@ You can also download these profiles for Apple Terminal app:
 [vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v5.0.0-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
 [github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v5.0.0
 
+## About my shell setup
+
+I use [Z shell](https://zsh.sourceforge.io) in combination with [_ohmyzsh_](https://ohmyz.sh) framework.
+
+My prompt theme is [starship](https://starship.rs), which is available for any shell.
+
+Some of the _ohmyzsh_ plugins I use are:
+
+- [ohmyzsh/colored-man-pages](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/colored-man-pages)
+- [ohmyzsh/git](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git)
+- [wfxr/forgit](https://github.com/wfxr/forgit)
+
+Apart of those, I use other plugins such as:
+
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+
+And some interesting utils I use are:
+
+- [`ogham/exa`](https://the.exa.website), which is a modern replacement for `ls`. In my case for `ll`<a href="#f1"><sup>1</sup></a>.
+- [`junegunn/fzf`](https://github.com/junegunn/fzf)
+- [`BurntSushi/ripgrep`](https://github.com/BurntSushi/ripgrep)
+- [`neovim/neovim`](https://github.com/neovim/neovim)
+
+See <a href="https://github.com/cdalvaro/dotfiles">cdalvaro/dotfiles</a> for more details.
+
 ---
 
 1. <span id="f1"></span> `alias ll='exa --long --header --group --git --modified --color-scale'` [↩️](#a1)
-
-See <a href="https://github.com/cdalvaro/dotfiles/blob/main/.oh-my-zsh/custom/aliases.zsh"><b>cdalvaro/dotfiles</b>/.oh-my-zsh/custom/aliases.zsh</a> for more details.
