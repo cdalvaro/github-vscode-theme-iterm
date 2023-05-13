@@ -241,26 +241,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56470590829849243</real>
+		<real>0.78039216995239258</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51372551918029785</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.46274510025978088</real>
+		<real>0.67843139171600342</real>
 	</dict>
 	<key>Cursor Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56470590829849243</real>
+		<real>0.78039216995239258</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51372551918029785</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.46274510025978088</real>
+		<real>0.67843139171600342</real>
 	</dict>
 	<key>Cursor Guide Color</key>
 	<dict>
@@ -280,26 +280,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56470590829849243</real>
+		<real>0.78039216995239258</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51372551918029785</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.46274510025978088</real>
+		<real>0.67843139171600342</real>
 	</dict>
 	<key>Foreground Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56470590829849243</real>
+		<real>0.78039216995239258</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51372551918029785</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.46274510025978088</real>
+		<real>0.67843139171600342</real>
 	</dict>
 	<key>Link Color</key>
 	<dict>
@@ -319,26 +319,26 @@
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.56968343257904053</real>
+		<real>0.78039216995239258</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.51439452171325684</real>
+		<real>0.729411780834198</real>
 		<key>Red Component</key>
-		<real>0.45682883262634277</real>
+		<real>0.67843139171600342</real>
 	</dict>
 	<key>Selection Color</key>
 	<dict>
 		<key>Alpha Component</key>
 		<real>1</real>
 		<key>Blue Component</key>
-		<real>0.37054044008255005</real>
+		<real>0.47058823704719543</real>
 		<key>Color Space</key>
 		<string>sRGB</string>
 		<key>Green Component</key>
-		<real>0.3491663932800293</real>
+		<real>0.30980393290519714</real>
 		<key>Red Component</key>
-		<real>0.33165043592453003</real>
+		<real>0.14901961386203766</real>
 	</dict>
 	<key>Tab Color</key>
 	<dict>
