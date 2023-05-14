@@ -1,0 +1,29 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"type": "light",
+	"colors": {
+		"editor.selectionBackground": "#0366d625",
+		"panel.background": "#f6f8fa",
+		"terminal.ansiBlack": "#24292e",
+		"terminal.ansiBlue": "#0366d6",
+		"terminal.ansiBrightBlack": "#959da5",
+		"terminal.ansiBrightBlue": "#005cc5",
+		"terminal.ansiBrightCyan": "#3192aa",
+		"terminal.ansiBrightGreen": "#22863a",
+		"terminal.ansiBrightMagenta": "#5a32a3",
+		"terminal.ansiBrightRed": "#cb2431",
+		"terminal.ansiBrightWhite": "#d1d5da",
+		"terminal.ansiBrightYellow": "#b08800",
+		"terminal.ansiCyan": "#1b7c83",
+		"terminal.ansiGreen": "#28a745",
+		"terminal.ansiMagenta": "#5a32a3",
+		"terminal.ansiRed": "#d73a49",
+		"terminal.ansiWhite": "#6a737d",
+		"terminal.ansiYellow": "#dbab09",
+		"terminal.foreground": "#586069",
+		// "terminal.selectionBackground": "#0366d625",
+		"terminalCursor.background": "#d1d5da",
+		"terminalCursor.foreground": "#005cc5",
+		"textLink.foreground": "#0366d6"
+	}
+}
