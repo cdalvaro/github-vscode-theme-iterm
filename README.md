@@ -2,7 +2,7 @@
 
 # GitHub VS Code Theme for iTerm
 
-<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/5.0.0/1632266107024/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.4/1680003819182/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
 
 [GitHub Visual Studio Code Theme][vscode-github-theme-marketplace] for [iTerm](https://iterm2.com) (Dark, Dimmed, Light and High Contrast)
 
@@ -15,13 +15,26 @@ Download iTerm profiles and open them.
 
 - [GitHub Dark Default.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Dark%20Default.itermcolors)
 - [GitHub Dark Dimmed.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Dark%20Dimmed.itermcolors)
-- [GitHub Light Default.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Light%20Default.itermcolors)
 - [GitHub Dark High Contrast.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Dark%20High%20Contrast.itermcolors)
+- [GitHub Light Default.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Light%20Default.itermcolors)
+- [GitHub Light High Contrast.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/GitHub%20Light%20High%20Contrast.itermcolors)
+
+|GitHub Dark Default|GitHub Dark Dimmed|GitHub Dark Hight Contrast|
+|:---:|:---:|:---:|
+|![GitHub Dark Default](images/GitHub_Dark_Default-iTerm.png)|![GitHub Dark Dimmed](images/GitHub_Dark_Dimmed-iTerm.png)|![GitHub Dark Hight Contrast](images/GitHub_Dark_High_Contrast-iTerm.png)|
+
+|GitHub Light Default|GitHub Light High Contrast|
+|:---:|:---:|
+|![GitHub Light Default](images/GitHub_Light_Default-iTerm.png)|![GitHub Light High Contrast](images/GitHub_Light_High_Contrast-iTerm.png)|
 
 ### iTerm legacy themes
 
 - [GitHub Dark.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/legacy/GitHub%20Dark.itermcolors)
 - [GitHub Light.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/legacy/GitHub%20Light.itermcolors)
+
+|GitHub Dark|GitHub Light|
+|:---:|:---:|
+|![GitHub Dark](images/GitHub_Dark-iTerm.png)|![GitHub Light](images/GitHub_Light-iTerm.png)|
 
 They will be automatically added to your _Color Presets..._ inside _Profiles > Colors_ in iTerm Preferences pane.
 
@@ -33,8 +46,9 @@ You can also download these profiles for Apple Terminal app:
 
 - [GitHub Dark Default.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Dark%20Default.terminal)
 - [GitHub Dark Dimmed.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Dark%20Dimmed.terminal)
-- [GitHub Light Default.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Light%20Default.terminal)
 - [GitHub Dark High Contrast.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Dark%20High%20Contrast.terminal)
+- [GitHub Light Default.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Light%20Default.terminal)
+- [GitHub Light High Contrast.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/GitHub%20Light%20High%20Contrast.terminal)
 
 ### Terminal.app legacy themes
 
@@ -42,14 +56,14 @@ You can also download these profiles for Apple Terminal app:
 - [GitHub Light.terminal](https://raw.githubusercontent.com/cdalvaro/github-theme-iterm/HEAD/terminal/legacy/GitHub%20Light.terminal)
 
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
-[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v5.0.0-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
-[github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v5.0.0
+[vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v6.3.4-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
+[github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v6.3.4
 
 ## About my shell setup
 
 I use [Z shell](https://zsh.sourceforge.io) in combination with [_ohmyzsh_](https://ohmyz.sh) framework.
 
-My prompt theme is [starship](https://starship.rs), which is available for any shell.
+My prompt theme is [starship](https://starship.rs), which is available for any shell. And the font I'm currently using is [MonoLisa](https://www.monolisa.dev).
 
 Some of the _ohmyzsh_ plugins I use are:
 
