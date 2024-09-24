@@ -2,7 +2,7 @@
 
 # GitHub VS Code Theme for iTerm
 
-<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.5/1680003819182/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
+<img src="https://github.gallerycdn.vsassets.io/extensions/github/github-vscode-theme/6.3.4/1680003819182/Microsoft.VisualStudio.Services.Icons.Default" width="64px" align="right" style="top: 1px; visibility: visible;" />
 
 [GitHub Visual Studio Code Theme][vscode-github-theme-marketplace] for [iTerm](https://iterm2.com) (Dark, Dimmed, Light and High Contrast)
 
