@@ -19,9 +19,9 @@ Download iTerm profiles and open them.
 - [GitHub Light Default.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/GitHub%20Light%20Default.itermcolors)
 - [GitHub Light High Contrast.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/GitHub%20Light%20High%20Contrast.itermcolors)
 
-|GitHub Dark Default|GitHub Dark Dimmed|GitHub Dark Hight Contrast|
+|GitHub Dark Default|GitHub Dark Dimmed|GitHub Dark High Contrast|
 |:---:|:---:|:---:|
-|![GitHub Dark Default](images/GitHub_Dark_Default-iTerm.png)|![GitHub Dark Dimmed](images/GitHub_Dark_Dimmed-iTerm.png)|![GitHub Dark Hight Contrast](images/GitHub_Dark_High_Contrast-iTerm.png)|
+|![GitHub Dark Default](images/GitHub_Dark_Default-iTerm.png)|![GitHub Dark Dimmed](images/GitHub_Dark_Dimmed-iTerm.png)|![GitHub Dark High Contrast](images/GitHub_Dark_High_Contrast-iTerm.png)|
 
 |GitHub Light Default|GitHub Light High Contrast|
 |:---:|:---:|
