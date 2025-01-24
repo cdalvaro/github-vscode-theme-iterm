@@ -19,22 +19,22 @@ Download iTerm profiles and open them.
 - [GitHub Light Default.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/GitHub%20Light%20Default.itermcolors)
 - [GitHub Light High Contrast.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/GitHub%20Light%20High%20Contrast.itermcolors)
 
-|GitHub Dark Default|GitHub Dark Dimmed|GitHub Dark High Contrast|
-|:---:|:---:|:---:|
-|![GitHub Dark Default](images/GitHub_Dark_Default-iTerm.png)|![GitHub Dark Dimmed](images/GitHub_Dark_Dimmed-iTerm.png)|![GitHub Dark High Contrast](images/GitHub_Dark_High_Contrast-iTerm.png)|
+|                     GitHub Dark Default                      |                     GitHub Dark Dimmed                     |                        GitHub Dark High Contrast                         |
+| :----------------------------------------------------------: | :--------------------------------------------------------: | :----------------------------------------------------------------------: |
+| ![GitHub Dark Default](images/GitHub_Dark_Default-iTerm.png) | ![GitHub Dark Dimmed](images/GitHub_Dark_Dimmed-iTerm.png) | ![GitHub Dark High Contrast](images/GitHub_Dark_High_Contrast-iTerm.png) |
 
-|GitHub Light Default|GitHub Light High Contrast|
-|:---:|:---:|
-|![GitHub Light Default](images/GitHub_Light_Default-iTerm.png)|![GitHub Light High Contrast](images/GitHub_Light_High_Contrast-iTerm.png)|
+|                      GitHub Light Default                      |                         GitHub Light High Contrast                         |
+| :------------------------------------------------------------: | :------------------------------------------------------------------------: |
+| ![GitHub Light Default](images/GitHub_Light_Default-iTerm.png) | ![GitHub Light High Contrast](images/GitHub_Light_High_Contrast-iTerm.png) |
 
 ### iTerm legacy themes
 
 - [GitHub Dark.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/legacy/GitHub%20Dark.itermcolors)
 - [GitHub Light.itermcolors](https://raw.githubusercontent.com/cdalvaro/github-vscode-theme-iterm/HEAD/legacy/GitHub%20Light.itermcolors)
 
-|GitHub Dark|GitHub Light|
-|:---:|:---:|
-|![GitHub Dark](images/GitHub_Dark-iTerm.png)|![GitHub Light](images/GitHub_Light-iTerm.png)|
+|                 GitHub Dark                  |                  GitHub Light                  |
+| :------------------------------------------: | :--------------------------------------------: |
+| ![GitHub Dark](images/GitHub_Dark-iTerm.png) | ![GitHub Light](images/GitHub_Light-iTerm.png) |
 
 They will be automatically added to your _Color Presets..._ inside _Profiles > Colors_ in iTerm Preferences pane.
 
@@ -58,6 +58,37 @@ You can also download these profiles for Apple Terminal app:
 [vscode-github-theme-marketplace]: https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme
 [vscode-github-theme-version]: https://img.shields.io/badge/GitHub%20Theme-v6.3.5-007ACC?style=flat-square&logo=visual-studio-code&logoColor=007ACC
 [github-vscode-theme-release]: https://github.com/primer/github-vscode-theme/releases/tag/v6.3.5
+
+## GitHub VSCode Theme for Ghostty Terminal
+
+If you are interested on these themes for [Ghostty Terminal](https://ghostty.org), you can download the iTerm themes and convert them using this gist: [cdalvaro/iterm2ghostty.rb](https://gist.github.com/cdalvaro/baaf834c705b5b9e073fc092de1e8520)
+
+For example:
+
+```sh
+curl -L -o iterm2ghostty.rb https://gist.github.com/cdalvaro/baaf834c705b5b9e073fc092de1e8520/raw/iterm2ghostty.rb
+chmod +x iterm2ghostty.rb
+./iterm2ghostty.rb --file github-vscode-theme-iterm-main/GitHub\ Dark\ Dimmed.itermcolors
+```
+
+You can copy the output to you Ghostty config file:
+
+```sh
+./iterm2ghostty.rb --file github-vscode-theme-iterm-main/GitHub\ Dark\ Dimmed.itermcolors >> ~/.config/ghostty/config
+```
+
+or create a new theme file with the output:
+
+```sh
+mkdir -p ~/.config/ghostty/themes
+./iterm2ghostty.rb --file github-vscode-theme-iterm-main/GitHub\ Dark\ Dimmed.itermcolors > ~/.config/ghostty/themes/github-dark-dimmed
+```
+
+Then, set the new theme in your config file `~/.config/ghostty/config`:
+
+```conf
+theme = github-dark-dimmed
+```
 
 ## About my shell setup
 
